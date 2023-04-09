@@ -1,0 +1,22 @@
+.navbar-text{
+    color:red;
+    float:right;
+    margin:auto
+}
+#label1{
+    width:120px
+}
+.Button{
+    color:white;
+    background-color: green;
+}
+.child{
+    padding-top: 0%;
+    margin-left:125px;
+}
+.image{
+    height: 120px;
+}
+.label1{
+    width:120px
+}
